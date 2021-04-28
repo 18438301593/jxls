@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 直接生成到本地文件
+ * 直接生成到本地文件（案例1）
  */
 public class TestMain {
     public static void main(String[] args){
